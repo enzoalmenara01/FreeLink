@@ -1,0 +1,32 @@
+{
+  "name": "FreeLink",
+  "short_name": "FreeLink",
+  "description": "Diárias entre estabelecimentos e freelancers em São Mateus/ES",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0a1f",
+  "theme_color": "#0f0a1f",
+  "lang": "pt-BR",
+  "categories": ["business", "lifestyle"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
