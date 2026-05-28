@@ -2,7 +2,7 @@
  * FreeLink — Service Worker (demo)
  * Cacheia o app pra abrir offline e habilita instalação.
  */
-const CACHE = 'freelink-demo-v1';
+const CACHE = 'freelink-demo-v2';
 const ASSETS = [
   './',
   './index.html',
